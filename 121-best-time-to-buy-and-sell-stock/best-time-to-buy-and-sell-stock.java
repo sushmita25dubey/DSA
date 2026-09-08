@@ -5,7 +5,7 @@ class Solution {
         //[7,1,5,3,6,4]
         //           p
         // minPrice=1
-        //maxprofit=5
+        //maxprofit=5   1-6=5
 
         //T:O(n) , S:O(1)
 
